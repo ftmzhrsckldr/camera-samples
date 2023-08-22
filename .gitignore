@@ -16,7 +16,6 @@ bin/
 gen/
 
 # Ignore gradle files
-.gradle/
 build/
 
 # Local configuration file (sdk path, etc)
@@ -34,9 +33,6 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
-
-# Ignore Gradle project-specific cache directory
-.gradle
 
 # Ignore Gradle build output directory
 build
