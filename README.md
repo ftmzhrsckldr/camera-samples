@@ -20,4 +20,4 @@ started with the [CameraX](https://developer.android.com/training/camerax) and
 | [HdrViewfinder](HdrViewfinder)            | Demonstrates use of RenderScript to display a live HDR feed from camera frames using Camera2 API. |
 
 Test
-test PR trigger 3
+test PR trigger 4
